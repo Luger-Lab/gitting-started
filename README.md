@@ -30,10 +30,8 @@ This Github page is organized into repos of scripts relating to different projec
     - The easiest way is to simply use the 'New' button on the LugerLab mainpage, create the repo, and clone it into the loaction of your choosing on your local computer.
     - Conversely, you can navigate into a folder and use 
     
-    '''
-    git init
-    git remote add origin git@github.com:username/new_repo
-    git push -u origin master
-    '''
+            git init
+            git remote add origin git@github.com:username/new_repo
+            git push -u origin master
     
 2. Either way you've chosen to start a repo you will need to add 
